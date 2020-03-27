@@ -1,0 +1,5 @@
+ssh karora
+password
+zless /net/corpora/twitter2/Tweets/yyyy/mm/dd/yyyymmdd:hh.out.gz | /net/corpora/twitter2/tools/tweet2tab -i words | grep -iow -f 'klimaat.txt' | wc -l
+
+to quit zless: press "q"
