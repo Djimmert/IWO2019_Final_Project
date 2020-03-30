@@ -1,5 +1,5 @@
 #!/bin/bash
-# Description:
+# Description: Provides an example output of the data used by ciara.sh
 #
 # Usage: ./example.sh WORD_LIST
 WORD_LIST=$1
